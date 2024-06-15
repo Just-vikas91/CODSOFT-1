@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="Tasks">Tasks</string>
+    <string name="addtask">AddTask</string>
+    <string name="icon">icon</string>
+    <string name="click_here_to_add_new_task">click here to add new Task</string>
+    <string name="save">Save</string>
+    <string name="remember_your_task">Remember Your task</string>
+    <string name="backgoundimage">backgoundImage</string>
+</resources>
