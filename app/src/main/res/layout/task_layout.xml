@@ -18,8 +18,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:buttonTint="@android:color/holo_purple"
-            android:padding="10dp"
+            android:buttonTint="@android:color/holo_blue_light"
+            android:padding="15dp"
             android:shadowColor="@android:color/darker_gray"
             tools:text="Sample task to Go to the market " />
     </RelativeLayout>
